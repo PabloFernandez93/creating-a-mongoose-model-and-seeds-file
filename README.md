@@ -1,4 +1,3 @@
-Topics covered on this exercise:
 
 - Making a models folder and a product.js file
 - Requiring the model on the index.js file
@@ -6,7 +5,8 @@ Topics covered on this exercise:
 - Working with insertMany()
 
 how to run it:
-- (you need to have node installed and mongodb running in the background)
+- install node.js
+- install mongodb and run it in the background
 - npm init -y
 - npm i express ejs mongoose
 - run node seeds.js (to seed the database)
