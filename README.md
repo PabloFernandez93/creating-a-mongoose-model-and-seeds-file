@@ -1,7 +1,7 @@
 
 - Making a models folder and a product.js file
 - Requiring the model on the index.js file
-- Creating a seeds.js file to seed our database and giving it initial data
+- Creating a seeds.js file to seed the database and giving it initial data
 - Working with insertMany()
 
 how to run it:
